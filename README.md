@@ -1,8 +1,6 @@
 # Bus-Reservation
 In this Bus Reservation system, the user can:
-<ul>
-Add the bus record
-Make the Reservation
-Show the bus details
-Show all buses available
-</ul>
+<p>Add the bus record</p>
+<p>Make the Reservation</p>
+<p>Show the bus details</p>
+<p>Show all buses available</p>
